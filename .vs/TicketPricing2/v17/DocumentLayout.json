@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\controllers\\stationsline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:controllers\\stationsline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\models\\stationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:models\\stationline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:models\\station.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\controllers\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:controllers\\stations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\ticketpricing2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:ticketpricing2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|c:\\users\\moham\\source\\repos\\ticketpricing2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54ECF9C1-E7AF-46CF-9390-C0E9BD660E26}|TicketPricing2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StationsLine.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Controllers\\StationsLine.cs",
+              "RelativeDocumentMoniker": "Controllers\\StationsLine.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Controllers\\StationsLine.cs",
+              "RelativeToolTip": "Controllers\\StationsLine.cs",
+              "ViewState": "AQIAADEAAAAAzMzMzMwUwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:43:22.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StationLine.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\StationLine.cs",
+              "RelativeDocumentMoniker": "models\\StationLine.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\StationLine.cs",
+              "RelativeToolTip": "models\\StationLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:31:33.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stations.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Controllers\\Stations.cs",
+              "RelativeDocumentMoniker": "Controllers\\Stations.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Controllers\\Stations.cs",
+              "RelativeToolTip": "Controllers\\Stations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T13:27:47.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Station.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\Station.cs",
+              "RelativeDocumentMoniker": "models\\Station.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\Station.cs",
+              "RelativeToolTip": "models\\Station.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:57:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:14:23.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:03:48.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketPricing2.csproj",
+              "DocumentMoniker": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\TicketPricing2.csproj",
+              "RelativeDocumentMoniker": "TicketPricing2.csproj",
+              "ToolTip": "C:\\Users\\moham\\source\\repos\\TicketPricing2\\TicketPricing2.csproj",
+              "RelativeToolTip": "TicketPricing2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T12:02:54.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
